@@ -10,6 +10,7 @@ git status
 
 code .
 
+git clone
 
 git add .
 
